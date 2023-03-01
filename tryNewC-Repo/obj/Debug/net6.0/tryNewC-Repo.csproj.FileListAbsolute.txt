@@ -1,0 +1,15 @@
+C:\repos\tryNewC-Repo\tryNewC-Repo\bin\Debug\net6.0\tryNewC-Repo.exe
+C:\repos\tryNewC-Repo\tryNewC-Repo\bin\Debug\net6.0\tryNewC-Repo.deps.json
+C:\repos\tryNewC-Repo\tryNewC-Repo\bin\Debug\net6.0\tryNewC-Repo.runtimeconfig.json
+C:\repos\tryNewC-Repo\tryNewC-Repo\bin\Debug\net6.0\tryNewC-Repo.dll
+C:\repos\tryNewC-Repo\tryNewC-Repo\bin\Debug\net6.0\tryNewC-Repo.pdb
+C:\repos\tryNewC-Repo\tryNewC-Repo\obj\Debug\net6.0\tryNewC-Repo.csproj.AssemblyReference.cache
+C:\repos\tryNewC-Repo\tryNewC-Repo\obj\Debug\net6.0\tryNewC-Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\tryNewC-Repo\tryNewC-Repo\obj\Debug\net6.0\tryNewC-Repo.AssemblyInfoInputs.cache
+C:\repos\tryNewC-Repo\tryNewC-Repo\obj\Debug\net6.0\tryNewC-Repo.AssemblyInfo.cs
+C:\repos\tryNewC-Repo\tryNewC-Repo\obj\Debug\net6.0\tryNewC-Repo.csproj.CoreCompileInputs.cache
+C:\repos\tryNewC-Repo\tryNewC-Repo\obj\Debug\net6.0\tryNewC-Repo.dll
+C:\repos\tryNewC-Repo\tryNewC-Repo\obj\Debug\net6.0\refint\tryNewC-Repo.dll
+C:\repos\tryNewC-Repo\tryNewC-Repo\obj\Debug\net6.0\tryNewC-Repo.pdb
+C:\repos\tryNewC-Repo\tryNewC-Repo\obj\Debug\net6.0\tryNewC-Repo.genruntimeconfig.cache
+C:\repos\tryNewC-Repo\tryNewC-Repo\obj\Debug\net6.0\ref\tryNewC-Repo.dll
